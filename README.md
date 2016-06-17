@@ -16,4 +16,4 @@ This sample utilizes several other libraries and tools in addition to Acetate to
 1. Download or fork and clone this repo
 2. `cd` into the folder
 3. `npm install`
-4. `acetate server --open`
+4. `npm start`
