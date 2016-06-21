@@ -23,8 +23,8 @@
   "watches": {
     "img": "src/img/**"
   },
-  "author": "",
-  "license": "MIT",
+  "author": "Patrick Arlt <patrick.arlt@gmail.com>",
+  "license": "ISC",
   "devDependencies": {
     "acetate": "^1.0.0",
     "acetate-asset-revisions": "^1.0.0",
